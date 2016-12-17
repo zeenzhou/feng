@@ -5,5 +5,6 @@ public class Feng {
 		System.out.println("Hello,feng,World.");
 		System.out.println("OK");
 		System.out.println("OK");
+		System.out.println("Test email commit.");
 	}
 }
